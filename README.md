@@ -1,1 +1,1 @@
-# terra-money-grants
+# terra-money
